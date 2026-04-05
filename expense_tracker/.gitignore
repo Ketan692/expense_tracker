@@ -1,0 +1,27 @@
+# 🔒 Environment variables
+.env
+.env.*
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+
+# 📦 Virtual environment
+env/
+venv/
+ENV/
+
+# 🧾 Database
+db.sqlite3
+
+# 🔑 Django / logs
+*.log
+*.pot
+
+# 🧪 IDEs
+.vscode/
+.idea/
+
+# 🧠 OS files
+.DS_Store
+Thumbs.db
